@@ -31,6 +31,7 @@ function clear() {
     sampleList = [];
     posList = [];
     sampleRate = [];
+    srcCount = 1;
 }
 
 
