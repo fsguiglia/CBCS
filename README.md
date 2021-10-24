@@ -1,6 +1,6 @@
 # CBCS
 Corpus based concatenative synth for Max for Live. CBCS uses a python script to analyze audio files and to distribute them in a 2d grid
-using audio descriptors and techniques like PCA and T-SNE. CBCS is now part of [MNT](https://github.com/fsguiglia/concatenate).
+using audio descriptors and techniques like PCA and T-SNE. CBCS is now part of [MNT](https://github.com/fsguiglia/MNT2).
 
 ### Installing
 * Move files to your Ableton Live Library folder
