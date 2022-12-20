@@ -53,7 +53,6 @@ function newGrain() {
     for(i = 1; i < curSamples.length; i+=2) {
         sampleList.push(curSamples[i]);
         posList.push(curSamples[i+1]);
-
     }
 }
 

@@ -34,9 +34,8 @@ function load(path)
                 data["samples"][i]["pca_y"],
                 data["samples"][i]["tsne_x"],
                 data["samples"][i]["tsne_y"],
-                data["samples"][i]["tsne_1D"],
-                data["samples"][i]["time"],
-				data["samples"][i]["file"]
+                data["samples"][i]["pos"],
+				data["samples"][i]["name"]
 				]; 
 		outlet(0, a);
 		
@@ -44,7 +43,7 @@ function load(path)
 		
 		for(j = 0; j < files.length; j++)
 		{
-			if(data["samples"][i]["file"] == files[j])
+			if(data["samples"][i]["name"] == files[j])
 			{
 				returnPath = false;
 				break;
@@ -53,8 +52,8 @@ function load(path)
 		
 		if(returnPath)
         {
-            outlet(1, data["samples"][i]["file"]);
-            files.push(data["samples"][i]["file"]);
+            outlet(1, data["samples"][i]["name"]);
+            files.push(data["samples"][i]["name"]);
         }
 	}
     outlet(2, "bang");
