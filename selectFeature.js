@@ -1,8 +1,8 @@
 inlets = 4;
 outlets = 3;
 
-var xVal = 0;
-var yVal = 0;
+var xVal = 7;
+var yVal = 8;
 var xFeat = 0;
 var yFeat = 1;
 var weights = [1., 1., 0., 0., 0., 0., 0., 0., 0., 0.];

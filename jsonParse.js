@@ -1,18 +1,52 @@
 outlets = 3;
-var memstr;
-var data = new Object()
-var files = [];
+var _memstr;
+var _unidades;
+var _data = new Object();
+var _files = [];
+
+function setDictID(id)
+{
+	_unidades = new Dict(id + "-unidades");
+	keys = _unidades.getkeys();
+	if(keys != null)
+	{
+		for(i = 0; i < keys.length; i++)
+		{
+			var a = _unidades.get(keys[i]);
+			outlet(0, a);
+			
+			var returnPath = true;
+		
+			for(j = 0; j < _files.length; j++)
+			{
+				if(a[10] == _files[j])
+				{
+					returnPath = false;
+					break;
+				}
+			}
+		
+			if(returnPath)
+        	{
+            	outlet(1, a[10]);
+            	_files.push(a[10]);
+        	}
+		}
+    	outlet(2, "bang");
+	}
+	
+}
 
 function load(path)
 {
-	memstr = "";
-	var f = new File(path);
+	_memstr = "";
+	var f = new File(path);	
 	f.open();
 	if (f.isopen)
 	{
 		while(f.position<f.eof)
 		{
-			memstr+=f.readstring(800);
+			_memstr+=f.readstring(800);
 		}
 		f.close();
 	} 
@@ -20,30 +54,31 @@ function load(path)
 	{
 		post("Error\n");
 	}
-	data = JSON.parse(memstr);
+	_data = JSON.parse(_memstr);
 	
-	for(i = 0; i < data["samples"].length; i++)
+	for(i = 0; i < _data["samples"].length; i++)
 	{
 		var a = [
-				data["samples"][i]["bandwidth"],
-				data["samples"][i]["centroid"],
-				data["samples"][i]["flatness"],
-				data["samples"][i]["rms"],
-				data["samples"][i]["rolloff"],
-                data["samples"][i]["pca_x"],
-                data["samples"][i]["pca_y"],
-                data["samples"][i]["tsne_x"],
-                data["samples"][i]["tsne_y"],
-                data["samples"][i]["pos"],
-				data["samples"][i]["name"]
+				_data["samples"][i]["bandwidth"],
+				_data["samples"][i]["centroid"],
+				_data["samples"][i]["flatness"],
+				_data["samples"][i]["rms"],
+				_data["samples"][i]["rolloff"],
+                _data["samples"][i]["pca_x"],
+                _data["samples"][i]["pca_y"],
+                _data["samples"][i]["tsne_x"],
+                _data["samples"][i]["tsne_y"],
+                _data["samples"][i]["pos"],
+				_data["samples"][i]["name"]
 				]; 
 		outlet(0, a);
+		_unidades.set(String(i), a);
 		
 		var returnPath = true;
 		
-		for(j = 0; j < files.length; j++)
+		for(j = 0; j < _files.length; j++)
 		{
-			if(data["samples"][i]["name"] == files[j])
+			if(_data["samples"][i]["name"] == _files[j])
 			{
 				returnPath = false;
 				break;
@@ -52,8 +87,8 @@ function load(path)
 		
 		if(returnPath)
         {
-            outlet(1, data["samples"][i]["name"]);
-            files.push(data["samples"][i]["name"]);
+            outlet(1, _data["samples"][i]["name"]);
+            _files.push(_data["samples"][i]["name"]);
         }
 	}
     outlet(2, "bang");
@@ -61,5 +96,9 @@ function load(path)
 
 function clear()
 {
-    files = [];
+	if(filers.length > 0)
+	{
+		_files.clear();
+	}
+	_unidades.clear();
 }
