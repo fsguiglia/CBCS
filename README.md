@@ -7,6 +7,7 @@ using audio descriptors and techniques like PCA and T-SNE. CBCS is now part of [
 * CBCS uses the MuBu external, you might need to install it
 * Python + Librosa, scikit-learn, progressbar and numpy are needed to run the analysis script
 
+You can find a version with a compiled script at [https://www.sguiglia.com.ar/hato.html](https://www.sguiglia.com.ar/hato.html)
+
 ### Usage
-Create an analysis file using the analyze button, load it, turn on the synth and browse the display. You can change the features being used with the dropdown menus.
-The rest of the controls are typical granular synth stuff.
+Analyze a folder using the "analyze" button. Turn on the synth and browse the display. You can change the features being used with the dropdown menus. Analysis parameters can be configured editing configure.ini. The rest of the controls are typical granular synth stuff.
