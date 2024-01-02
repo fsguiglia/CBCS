@@ -1,9 +1,9 @@
 {
     "samples": [
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\0.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\0.wav",
             "pos": 0.0,
-            "tsne_x": 0.3660317063331604,
+            "tsne_x": 0.48977792263031006,
             "tsne_y": 1.0,
             "pca_x": 0.3650698999158165,
             "pca_y": 0.0,
@@ -15,10 +15,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\1.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\1.wav",
             "pos": 0.0,
-            "tsne_x": 0.35485997796058655,
-            "tsne_y": 0.7502413988113403,
+            "tsne_x": 0.39313623309135437,
+            "tsne_y": 0.847174346446991,
             "pca_x": 0.3077220882341825,
             "pca_y": 0.12076121378163879,
             "rms": 0.17203405597748503,
@@ -29,10 +29,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\100.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\100.wav",
             "pos": 0.0,
-            "tsne_x": 0.41811585426330566,
-            "tsne_y": 0.38382482528686523,
+            "tsne_x": 0.1560291051864624,
+            "tsne_y": 0.5902819037437439,
             "pca_x": 0.25375526850890373,
             "pca_y": 0.49526925477570044,
             "rms": 0.1934877294629773,
@@ -43,10 +43,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\11.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\11.wav",
             "pos": 0.0,
-            "tsne_x": 0.35389724373817444,
-            "tsne_y": 0.9244052171707153,
+            "tsne_x": 0.5350596904754639,
+            "tsne_y": 0.9395658373832703,
             "pca_x": 0.3598447536097168,
             "pca_y": 0.06950538928333204,
             "rms": 0.20611259891267703,
@@ -57,10 +57,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\12.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\12.wav",
             "pos": 0.0,
-            "tsne_x": 0.35820862650871277,
-            "tsne_y": 0.8090978860855103,
+            "tsne_x": 0.4548422694206238,
+            "tsne_y": 0.8715574145317078,
             "pca_x": 0.32829609338314886,
             "pca_y": 0.10872533826991117,
             "rms": 0.23230269065658918,
@@ -71,10 +71,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\13.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\13.wav",
             "pos": 0.0,
-            "tsne_x": 0.7386321425437927,
-            "tsne_y": 0.9419047236442566,
+            "tsne_x": 0.800415575504303,
+            "tsne_y": 0.6270980834960938,
             "pca_x": 0.6131228019762919,
             "pca_y": 0.1485677728101615,
             "rms": 0.6242642059723964,
@@ -85,10 +85,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\14.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\14.wav",
             "pos": 0.0,
-            "tsne_x": 0.4956646263599396,
-            "tsne_y": 0.7344531416893005,
+            "tsne_x": 0.5279544591903687,
+            "tsne_y": 0.772210955619812,
             "pca_x": 0.29514033670623563,
             "pca_y": 0.18341870530268467,
             "rms": 0.14562567734251133,
@@ -99,10 +99,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\15.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\15.wav",
             "pos": 0.0,
-            "tsne_x": 0.4955579936504364,
-            "tsne_y": 0.6741634607315063,
+            "tsne_x": 0.46493685245513916,
+            "tsne_y": 0.7118711471557617,
             "pca_x": 0.2612344525524004,
             "pca_y": 0.21389644244226427,
             "rms": 0.21647704359834294,
@@ -113,10 +113,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\17.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\17.wav",
             "pos": 0.0,
-            "tsne_x": 0.7456235885620117,
-            "tsne_y": 0.9849950671195984,
+            "tsne_x": 0.792060136795044,
+            "tsne_y": 0.580778181552887,
             "pca_x": 0.5938192498995667,
             "pca_y": 0.24476426059473633,
             "rms": 0.23221067478698262,
@@ -127,10 +127,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\18.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\18.wav",
             "pos": 0.0,
-            "tsne_x": 0.44632667303085327,
-            "tsne_y": 0.682299017906189,
+            "tsne_x": 0.431904137134552,
+            "tsne_y": 0.7420576214790344,
             "pca_x": 0.28201710353506126,
             "pca_y": 0.2017791967814089,
             "rms": 0.04984910398426883,
@@ -141,10 +141,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\19.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\19.wav",
             "pos": 0.0,
-            "tsne_x": 0.5243111848831177,
-            "tsne_y": 0.6407850384712219,
+            "tsne_x": 0.49449974298477173,
+            "tsne_y": 0.6700990796089172,
             "pca_x": 0.21344562311368012,
             "pca_y": 0.28780947757556363,
             "rms": 0.4467498006352004,
@@ -155,10 +155,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\2.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\2.wav",
             "pos": 0.0,
-            "tsne_x": 0.4271279573440552,
-            "tsne_y": 0.26182764768600464,
+            "tsne_x": 0.10210997611284256,
+            "tsne_y": 0.520098865032196,
             "pca_x": 0.151298903593927,
             "pca_y": 0.5953695152201397,
             "rms": 0.09546634412524678,
@@ -169,10 +169,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\20.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\20.wav",
             "pos": 0.0,
-            "tsne_x": 0.6071932315826416,
-            "tsne_y": 0.8143807053565979,
+            "tsne_x": 0.6398149132728577,
+            "tsne_y": 0.6709027290344238,
             "pca_x": 0.4056457518652257,
             "pca_y": 0.18209909493030518,
             "rms": 0.5982825762074516,
@@ -183,10 +183,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\21.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\21.wav",
             "pos": 0.0,
-            "tsne_x": 0.274196594953537,
-            "tsne_y": 0.8976925015449524,
+            "tsne_x": 0.6139651536941528,
+            "tsne_y": 0.9022297859191895,
             "pca_x": 0.392580236473418,
             "pca_y": 0.05793191130125011,
             "rms": 0.4858626327002547,
@@ -197,10 +197,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\22.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\22.wav",
             "pos": 0.0,
-            "tsne_x": 0.43272700905799866,
-            "tsne_y": 0.7095701098442078,
+            "tsne_x": 0.4200804829597473,
+            "tsne_y": 0.7633602619171143,
             "pca_x": 0.33317103969869444,
             "pca_y": 0.17674485592034453,
             "rms": 0.3805031710129078,
@@ -211,10 +211,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\24.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\24.wav",
             "pos": 0.0,
-            "tsne_x": 0.38088706135749817,
-            "tsne_y": 0.7481449842453003,
+            "tsne_x": 0.4455794394016266,
+            "tsne_y": 0.8032004833221436,
             "pca_x": 0.3160581593614392,
             "pca_y": 0.14719977996736597,
             "rms": 1.0,
@@ -225,10 +225,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\26.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\26.wav",
             "pos": 0.0,
-            "tsne_x": 0.7533197999000549,
-            "tsne_y": 0.9666382670402527,
+            "tsne_x": 0.7930348515510559,
+            "tsne_y": 0.5844314694404602,
             "pca_x": 0.6300793274730107,
             "pca_y": 0.20367432781154288,
             "rms": 0.28622898655430123,
@@ -239,10 +239,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\28.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\28.wav",
             "pos": 0.0,
-            "tsne_x": 0.28544721007347107,
-            "tsne_y": 0.8345197439193726,
+            "tsne_x": 0.5902390480041504,
+            "tsne_y": 0.8481028079986572,
             "pca_x": 0.3602500154018957,
             "pca_y": 0.15754236226808532,
             "rms": 0.37187188453059655,
@@ -253,10 +253,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\3.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\3.wav",
             "pos": 0.0,
-            "tsne_x": 0.37226614356040955,
-            "tsne_y": 0.6264151930809021,
+            "tsne_x": 0.34561750292778015,
+            "tsne_y": 0.7555917501449585,
             "pca_x": 0.2816416084724527,
             "pca_y": 0.22217713976891396,
             "rms": 0.18464273681196802,
@@ -267,10 +267,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\30.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\30.wav",
             "pos": 0.0,
-            "tsne_x": 0.4094311594963074,
-            "tsne_y": 0.5875988602638245,
+            "tsne_x": 0.3441206216812134,
+            "tsne_y": 0.7086650729179382,
             "pca_x": 0.2825657783878866,
             "pca_y": 0.2555991379688727,
             "rms": 0.16943094793256339,
@@ -281,10 +281,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\31.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\31.wav",
             "pos": 0.0,
-            "tsne_x": 0.7694683074951172,
-            "tsne_y": 0.8570231795310974,
+            "tsne_x": 0.8492279648780823,
+            "tsne_y": 0.6693154573440552,
             "pca_x": 0.5488891014141505,
             "pca_y": 0.14621789532416726,
             "rms": 0.38922374835545964,
@@ -295,10 +295,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\32.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\32.wav",
             "pos": 0.0,
-            "tsne_x": 0.49592578411102295,
-            "tsne_y": 0.8431541323661804,
+            "tsne_x": 0.3842662572860718,
+            "tsne_y": 0.883611798286438,
             "pca_x": 0.30616496236893526,
             "pca_y": 0.10771142477804393,
             "rms": 0.5025408083059322,
@@ -309,10 +309,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\34.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\34.wav",
             "pos": 0.0,
-            "tsne_x": 0.981410562992096,
-            "tsne_y": 0.7682181000709534,
+            "tsne_x": 1.0,
+            "tsne_y": 0.44985315203666687,
             "pca_x": 0.8127744230015435,
             "pca_y": 0.22763028629373547,
             "rms": 0.3866279196536752,
@@ -323,10 +323,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\35.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\35.wav",
             "pos": 0.0,
-            "tsne_x": 0.6886010766029358,
-            "tsne_y": 0.9030154943466187,
+            "tsne_x": 0.7651569843292236,
+            "tsne_y": 0.668903648853302,
             "pca_x": 0.4874986903521461,
             "pca_y": 0.1661289774381638,
             "rms": 0.27858695216418156,
@@ -337,10 +337,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\36.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\36.wav",
             "pos": 0.0,
-            "tsne_x": 0.8649804592132568,
-            "tsne_y": 0.9091579914093018,
+            "tsne_x": 0.9234199523925781,
+            "tsne_y": 0.6001206040382385,
             "pca_x": 0.7695672082640336,
             "pca_y": 0.25036310120552163,
             "rms": 0.2631617097024264,
@@ -351,10 +351,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\4.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\4.wav",
             "pos": 0.0,
-            "tsne_x": 0.5149818062782288,
-            "tsne_y": 0.7741758227348328,
+            "tsne_x": 0.5507283806800842,
+            "tsne_y": 0.7204460501670837,
             "pca_x": 0.34470620831148024,
             "pca_y": 0.18450879616483667,
             "rms": 0.16590410588307017,
@@ -365,10 +365,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\40.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\40.wav",
             "pos": 0.0,
-            "tsne_x": 0.9780327677726746,
-            "tsne_y": 0.7490274310112,
+            "tsne_x": 0.9847641587257385,
+            "tsne_y": 0.43536505103111267,
             "pca_x": 0.7997021750838051,
             "pca_y": 0.3327354114106507,
             "rms": 0.30323360697642554,
@@ -379,10 +379,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\43.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\43.wav",
             "pos": 0.0,
-            "tsne_x": 0.4871383607387543,
-            "tsne_y": 0.2785411775112152,
+            "tsne_x": 0.1527954787015915,
+            "tsne_y": 0.47139668464660645,
             "pca_x": 0.18511975826171814,
             "pca_y": 0.628286630838081,
             "rms": 0.05692092961146138,
@@ -393,10 +393,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\44.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\44.wav",
             "pos": 0.0,
-            "tsne_x": 0.9463188648223877,
-            "tsne_y": 0.543937087059021,
+            "tsne_x": 0.8518800139427185,
+            "tsne_y": 0.2913661301136017,
             "pca_x": 1.0,
             "pca_y": 0.4610098611755841,
             "rms": 0.33749146237188327,
@@ -407,10 +407,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\45.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\45.wav",
             "pos": 0.0,
-            "tsne_x": 0.42695027589797974,
-            "tsne_y": 0.8871967196464539,
+            "tsne_x": 0.5328511595726013,
+            "tsne_y": 0.8810827732086182,
             "pca_x": 0.34737189218694003,
             "pca_y": 0.02969189555000793,
             "rms": 0.3528022312033847,
@@ -421,10 +421,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\47.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\47.wav",
             "pos": 0.0,
-            "tsne_x": 0.7155253887176514,
-            "tsne_y": 0.9343774914741516,
+            "tsne_x": 0.7665776014328003,
+            "tsne_y": 0.6104873418807983,
             "pca_x": 0.5278332910384823,
             "pca_y": 0.20427605222898376,
             "rms": 0.34112018051938214,
@@ -435,10 +435,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\48.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\48.wav",
             "pos": 0.0,
-            "tsne_x": 0.6038750410079956,
-            "tsne_y": 0.9759229421615601,
+            "tsne_x": 0.7304689884185791,
+            "tsne_y": 0.7393603324890137,
             "pca_x": 0.5134143432370881,
             "pca_y": 0.11632184048078995,
             "rms": 0.7171641279345337,
@@ -449,10 +449,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\49.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\49.wav",
             "pos": 0.0,
-            "tsne_x": 0.5496835708618164,
-            "tsne_y": 0.4709705412387848,
+            "tsne_x": 0.32804739475250244,
+            "tsne_y": 0.5393773317337036,
             "pca_x": 0.36278315082131757,
             "pca_y": 0.41846299205037674,
             "rms": 0.04274777846732688,
@@ -463,10 +463,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\5.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\5.wav",
             "pos": 0.0,
-            "tsne_x": 0.4242035150527954,
-            "tsne_y": 0.7872267961502075,
+            "tsne_x": 0.4623663127422333,
+            "tsne_y": 0.820991039276123,
             "pca_x": 0.3231530526556965,
             "pca_y": 0.12210147767440005,
             "rms": 0.5904756999903935,
@@ -477,10 +477,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\50.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\50.wav",
             "pos": 0.0,
-            "tsne_x": 0.42657437920570374,
-            "tsne_y": 0.21400193870067596,
+            "tsne_x": 0.08104720711708069,
+            "tsne_y": 0.4904603064060211,
             "pca_x": 0.09419123835870913,
             "pca_y": 0.64857206105725,
             "rms": 0.012962531719728713,
@@ -491,10 +491,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\52.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\52.wav",
             "pos": 0.0,
-            "tsne_x": 0.3849858045578003,
-            "tsne_y": 0.9226168990135193,
+            "tsne_x": 0.48147523403167725,
+            "tsne_y": 0.9380105137825012,
             "pca_x": 0.3632200674585306,
             "pca_y": 0.026244520064660774,
             "rms": 0.38119414829549186,
@@ -505,10 +505,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\53.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\53.wav",
             "pos": 0.0,
-            "tsne_x": 0.9464808702468872,
-            "tsne_y": 0.7654052376747131,
+            "tsne_x": 0.9651892185211182,
+            "tsne_y": 0.4626907706260681,
             "pca_x": 0.7540031974788385,
             "pca_y": 0.3330362269776925,
             "rms": 0.127992903242861,
@@ -519,10 +519,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\54.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\54.wav",
             "pos": 0.0,
-            "tsne_x": 0.1875019669532776,
-            "tsne_y": 0.16863541305065155,
+            "tsne_x": 0.5325011610984802,
+            "tsne_y": 0.25797343254089355,
             "pca_x": 0.34162603934769725,
             "pca_y": 0.5005912282392876,
             "rms": 0.47166935521191256,
@@ -533,10 +533,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\55.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\55.wav",
             "pos": 0.0,
-            "tsne_x": 0.7199134230613708,
-            "tsne_y": 0.09252462536096573,
+            "tsne_x": 0.13874246180057526,
+            "tsne_y": 0.17589907348155975,
             "pca_x": 0.38655996108340396,
             "pca_y": 0.7645372895413703,
             "rms": 0.10933194924426187,
@@ -547,10 +547,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\56.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\56.wav",
             "pos": 0.0,
-            "tsne_x": 0.3007546663284302,
-            "tsne_y": 0.6193211078643799,
+            "tsne_x": 0.2844720184803009,
+            "tsne_y": 0.7894720435142517,
             "pca_x": 0.30710515989701387,
             "pca_y": 0.22871529076120534,
             "rms": 0.41244623374700073,
@@ -561,10 +561,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\57.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\57.wav",
             "pos": 0.0,
-            "tsne_x": 0.5867050886154175,
-            "tsne_y": 0.25246375799179077,
+            "tsne_x": 0.2494424283504486,
+            "tsne_y": 0.34230226278305054,
             "pca_x": 0.36832537339844923,
             "pca_y": 0.5591226477124783,
             "rms": 0.2658431521657059,
@@ -575,10 +575,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\58.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\58.wav",
             "pos": 0.0,
-            "tsne_x": 0.7868788242340088,
-            "tsne_y": 0.21306389570236206,
+            "tsne_x": 0.2552468478679657,
+            "tsne_y": 0.13877618312835693,
             "pca_x": 0.6376740196489454,
             "pca_y": 0.7059727277596585,
             "rms": 0.1370218282648377,
@@ -589,10 +589,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\59.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\59.wav",
             "pos": 0.0,
-            "tsne_x": 0.9422657489776611,
-            "tsne_y": 0.5486952662467957,
+            "tsne_x": 0.8439710140228271,
+            "tsne_y": 0.2960343062877655,
             "pca_x": 0.8101156819589223,
             "pca_y": 0.46130136150111095,
             "rms": 0.18663858753028909,
@@ -603,10 +603,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\61.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\61.wav",
             "pos": 0.0,
-            "tsne_x": 0.7851526141166687,
-            "tsne_y": 0.16332514584064484,
+            "tsne_x": 0.20749592781066895,
+            "tsne_y": 0.13404469192028046,
             "pca_x": 0.6493813716588459,
             "pca_y": 0.6518063458516584,
             "rms": 0.25563406019666524,
@@ -617,10 +617,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\62.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\62.wav",
             "pos": 0.0,
-            "tsne_x": 0.7660972476005554,
-            "tsne_y": 0.9113009572029114,
+            "tsne_x": 0.8268334865570068,
+            "tsne_y": 0.6279820203781128,
             "pca_x": 0.5748363420089526,
             "pca_y": 0.16754187637032852,
             "rms": 0.4734506269443947,
@@ -631,10 +631,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\63.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\63.wav",
             "pos": 0.0,
-            "tsne_x": 0.9093910455703735,
-            "tsne_y": 0.07732154428958893,
+            "tsne_x": 0.15074607729911804,
+            "tsne_y": 0.0,
             "pca_x": 0.5821506796205269,
             "pca_y": 1.0,
             "rms": 0.3993141262149051,
@@ -645,10 +645,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\66.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\66.wav",
             "pos": 0.0,
-            "tsne_x": 0.23920440673828125,
-            "tsne_y": 0.3009091913700104,
+            "tsne_x": 0.5350441932678223,
+            "tsne_y": 0.3579968512058258,
             "pca_x": 0.4228858862361347,
             "pca_y": 0.4955098742210919,
             "rms": 0.21885323897779857,
@@ -659,10 +659,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\68.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\68.wav",
             "pos": 0.0,
-            "tsne_x": 0.9777207970619202,
-            "tsne_y": 0.7594223022460938,
+            "tsne_x": 0.9935746788978577,
+            "tsne_y": 0.4461151361465454,
             "pca_x": 0.881731522977519,
             "pca_y": 0.3507145291561892,
             "rms": 0.15924812268927388,
@@ -673,10 +673,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\69.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\69.wav",
             "pos": 0.0,
-            "tsne_x": 1.0,
-            "tsne_y": 0.7327264547348022,
+            "tsne_x": 0.996458113193512,
+            "tsne_y": 0.41118812561035156,
             "pca_x": 0.8491601157962131,
             "pca_y": 0.3354442809988575,
             "rms": 0.23145009477177533,
@@ -687,10 +687,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\7.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\7.wav",
             "pos": 0.0,
-            "tsne_x": 0.3962489068508148,
-            "tsne_y": 0.797508955001831,
+            "tsne_x": 0.45412957668304443,
+            "tsne_y": 0.8403034210205078,
             "pca_x": 0.3034897631193414,
             "pca_y": 0.1539860008355354,
             "rms": 0.6551641062895077,
@@ -701,10 +701,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\70.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\70.wav",
             "pos": 0.0,
-            "tsne_x": 0.6066194176673889,
-            "tsne_y": 0.39461642503738403,
+            "tsne_x": 0.3073451519012451,
+            "tsne_y": 0.4734072685241699,
             "pca_x": 0.4336322866167097,
             "pca_y": 0.5723577022426612,
             "rms": 0.11196362245319026,
@@ -715,10 +715,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\71.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\71.wav",
             "pos": 0.0,
-            "tsne_x": 0.5207662582397461,
-            "tsne_y": 0.33974340558052063,
+            "tsne_x": 0.2156110554933548,
+            "tsne_y": 0.47436925768852234,
             "pca_x": 0.18613830944862547,
             "pca_y": 0.5837050419142223,
             "rms": 0.05770655967890419,
@@ -729,10 +729,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\72.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\72.wav",
             "pos": 0.0,
-            "tsne_x": 0.41438451409339905,
-            "tsne_y": 0.30364295840263367,
+            "tsne_x": 0.12002885341644287,
+            "tsne_y": 0.5506402254104614,
             "pca_x": 0.19803458764386236,
             "pca_y": 0.4837013557356342,
             "rms": 0.08911445225939779,
@@ -743,10 +743,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\73.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\73.wav",
             "pos": 0.0,
-            "tsne_x": 0.506795346736908,
-            "tsne_y": 0.3899225890636444,
+            "tsne_x": 0.25215601921081543,
+            "tsne_y": 0.42149198055267334,
             "pca_x": 0.26530022965272704,
             "pca_y": 0.42277678790812373,
             "rms": 0.21103201827782905,
@@ -757,10 +757,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\74.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\74.wav",
             "pos": 0.0,
-            "tsne_x": 0.0,
-            "tsne_y": 0.7000966668128967,
+            "tsne_x": 0.7616611123085022,
+            "tsne_y": 0.30752789974212646,
             "pca_x": 0.8673039724258538,
             "pca_y": 0.39638264468224105,
             "rms": 0.26879408030454416,
@@ -771,10 +771,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\75.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\75.wav",
             "pos": 0.0,
-            "tsne_x": 0.6265402436256409,
-            "tsne_y": 0.1638486683368683,
+            "tsne_x": 0.21620213985443115,
+            "tsne_y": 0.2785629630088806,
             "pca_x": 0.37892679761486103,
             "pca_y": 0.6888430190238739,
             "rms": 0.0,
@@ -785,10 +785,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\76.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\76.wav",
             "pos": 0.0,
-            "tsne_x": 0.3309587240219116,
-            "tsne_y": 0.09773754328489304,
+            "tsne_x": 0.393595427274704,
+            "tsne_y": 0.30887192487716675,
             "pca_x": 0.0,
             "pca_y": 0.6496478973313724,
             "rms": 0.2026632562729191,
@@ -799,10 +799,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\78.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\78.wav",
             "pos": 0.0,
-            "tsne_x": 0.4797697067260742,
-            "tsne_y": 0.35358092188835144,
+            "tsne_x": 0.20855675637722015,
+            "tsne_y": 0.49208298325538635,
             "pca_x": 0.18667669920013494,
             "pca_y": 0.5045398197837948,
             "rms": 0.18499666532879416,
@@ -813,10 +813,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\79.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\79.wav",
             "pos": 0.0,
-            "tsne_x": 0.20681197941303253,
-            "tsne_y": 0.14416402578353882,
+            "tsne_x": 0.506817638874054,
+            "tsne_y": 0.2497383952140808,
             "pca_x": 0.21817327869454667,
             "pca_y": 0.5398903370094281,
             "rms": 0.11944828429223912,
@@ -827,10 +827,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\8.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\8.wav",
             "pos": 0.0,
-            "tsne_x": 0.392897367477417,
-            "tsne_y": 0.8451772928237915,
+            "tsne_x": 0.5204368829727173,
+            "tsne_y": 0.84743332862854,
             "pca_x": 0.3136487678002387,
             "pca_y": 0.1327092210975468,
             "rms": 0.4667079144471314,
@@ -841,10 +841,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\80.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\80.wav",
             "pos": 0.0,
-            "tsne_x": 0.27222487330436707,
-            "tsne_y": 0.6949822306632996,
+            "tsne_x": 0.2959369122982025,
+            "tsne_y": 0.8638549447059631,
             "pca_x": 0.37175509494934666,
             "pca_y": 0.14299338304697295,
             "rms": 0.05755997327867615,
@@ -855,10 +855,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\81.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\81.wav",
             "pos": 0.0,
-            "tsne_x": 0.20344235002994537,
-            "tsne_y": 0.14846153557300568,
+            "tsne_x": 0.5105898380279541,
+            "tsne_y": 0.25515225529670715,
             "pca_x": 0.18705743935939081,
             "pca_y": 0.5106273299545246,
             "rms": 0.32302193548268676,
@@ -869,10 +869,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\82.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\82.wav",
             "pos": 0.0,
-            "tsne_x": 0.010197648778557777,
-            "tsne_y": 0.6936588883399963,
+            "tsne_x": 0.1067785918712616,
+            "tsne_y": 0.7535291910171509,
             "pca_x": 0.8833772129532279,
             "pca_y": 0.36056205667663427,
             "rms": 0.5380730132883733,
@@ -883,10 +883,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\83.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\83.wav",
             "pos": 0.0,
-            "tsne_x": 0.691878080368042,
-            "tsne_y": 0.17341333627700806,
+            "tsne_x": 0.21587303280830383,
+            "tsne_y": 0.21819210052490234,
             "pca_x": 0.3776374382408954,
             "pca_y": 0.6686477168529863,
             "rms": 0.08923542678507414,
@@ -897,10 +897,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\84.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\84.wav",
             "pos": 0.0,
-            "tsne_x": 0.9150930047035217,
-            "tsne_y": 0.20170755684375763,
+            "tsne_x": 0.2566530108451843,
+            "tsne_y": 0.010835761204361916,
             "pca_x": 0.8090207816362964,
             "pca_y": 0.6133632884607737,
             "rms": 0.6980029283762544,
@@ -911,10 +911,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\85.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\85.wav",
             "pos": 0.0,
-            "tsne_x": 0.24874481558799744,
-            "tsne_y": 0.39336779713630676,
+            "tsne_x": 0.6019755601882935,
+            "tsne_y": 0.449139267206192,
             "pca_x": 0.4593836483470784,
             "pca_y": 0.3695056003895505,
             "rms": 0.1513409220096106,
@@ -925,10 +925,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\86.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\86.wav",
             "pos": 0.0,
-            "tsne_x": 0.2007412314414978,
-            "tsne_y": 0.13855332136154175,
+            "tsne_x": 0.5100333094596863,
+            "tsne_y": 0.24244970083236694,
             "pca_x": 0.2720781719322064,
             "pca_y": 0.6385722550958997,
             "rms": 0.23016408006244948,
@@ -939,10 +939,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\87.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\87.wav",
             "pos": 0.0,
-            "tsne_x": 0.592045783996582,
-            "tsne_y": 0.3931182622909546,
+            "tsne_x": 0.281424343585968,
+            "tsne_y": 0.4751230478286743,
             "pca_x": 0.3076905487860196,
             "pca_y": 0.5209827069739514,
             "rms": 0.04587046753855368,
@@ -953,10 +953,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\89.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\89.wav",
             "pos": 0.0,
-            "tsne_x": 0.08806680142879486,
-            "tsne_y": 0.6381973028182983,
+            "tsne_x": 0.448112815618515,
+            "tsne_y": 0.516737699508667,
             "pca_x": 0.5311754294295391,
             "pca_y": 0.46456654644708834,
             "rms": 0.16007478403434758,
@@ -967,10 +967,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\9.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\9.wav",
             "pos": 0.0,
-            "tsne_x": 0.443097323179245,
-            "tsne_y": 0.7561143040657043,
+            "tsne_x": 0.4893754720687866,
+            "tsne_y": 0.7786794900894165,
             "pca_x": 0.28369419049599,
             "pca_y": 0.1978681022684143,
             "rms": 0.3094677160940048,
@@ -981,10 +981,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\90.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\90.wav",
             "pos": 0.0,
-            "tsne_x": 0.33617547154426575,
-            "tsne_y": 0.44586363434791565,
+            "tsne_x": 0.25574228167533875,
+            "tsne_y": 0.6398558020591736,
             "pca_x": 0.2117131263855843,
             "pca_y": 0.407469331244711,
             "rms": 0.3064710939711774,
@@ -995,10 +995,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\91.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\91.wav",
             "pos": 0.0,
-            "tsne_x": 0.48671168088912964,
-            "tsne_y": 0.0,
+            "tsne_x": 0.00956686120480299,
+            "tsne_y": 0.2941368520259857,
             "pca_x": 0.2614181618581654,
             "pca_y": 0.7914854507853029,
             "rms": 0.23965304236098461,
@@ -1009,10 +1009,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\92.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\92.wav",
             "pos": 0.0,
-            "tsne_x": 0.681156575679779,
-            "tsne_y": 0.8179259300231934,
+            "tsne_x": 0.6874626874923706,
+            "tsne_y": 0.6055947542190552,
             "pca_x": 0.44713362074875035,
             "pca_y": 0.23332619099526294,
             "rms": 0.07167702336650017,
@@ -1023,10 +1023,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\93.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\93.wav",
             "pos": 0.0,
-            "tsne_x": 0.8713252544403076,
-            "tsne_y": 0.1870749294757843,
+            "tsne_x": 0.241824671626091,
+            "tsne_y": 0.050654735416173935,
             "pca_x": 0.583113035186626,
             "pca_y": 0.6668774818727957,
             "rms": 0.13345784503601799,
@@ -1037,10 +1037,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\94.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\94.wav",
             "pos": 0.0,
-            "tsne_x": 0.7593288421630859,
-            "tsne_y": 0.13120144605636597,
+            "tsne_x": 0.18031372129917145,
+            "tsne_y": 0.15108969807624817,
             "pca_x": 0.5385535900935611,
             "pca_y": 0.6394279967789329,
             "rms": 0.8490465418464275,
@@ -1051,10 +1051,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\95.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\95.wav",
             "pos": 0.0,
-            "tsne_x": 0.09443353861570358,
-            "tsne_y": 0.6460407376289368,
+            "tsne_x": 0.4526691138744354,
+            "tsne_y": 0.5283412933349609,
             "pca_x": 0.5440798965756568,
             "pca_y": 0.3511164774441026,
             "rms": 0.47575924786064205,
@@ -1065,10 +1065,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\96.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\96.wav",
             "pos": 0.0,
-            "tsne_x": 0.7693414092063904,
-            "tsne_y": 0.031471412628889084,
+            "tsne_x": 0.09597741812467575,
+            "tsne_y": 0.12080458551645279,
             "pca_x": 0.6399405313339218,
             "pca_y": 0.7793227246294547,
             "rms": 0.1448478950989048,
@@ -1079,10 +1079,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\97.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\97.wav",
             "pos": 0.0,
-            "tsne_x": 0.7306382060050964,
-            "tsne_y": 0.18847085535526276,
+            "tsne_x": 0.22942200303077698,
+            "tsne_y": 0.18392007052898407,
             "pca_x": 0.4920866887009438,
             "pca_y": 0.8110143029828333,
             "rms": 0.22258681734398394,
@@ -1093,10 +1093,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\98.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\98.wav",
             "pos": 0.0,
-            "tsne_x": 0.45054373145103455,
-            "tsne_y": 0.00793328694999218,
+            "tsne_x": 0.0,
+            "tsne_y": 0.3190024197101593,
             "pca_x": 0.2311787917780695,
             "pca_y": 0.6709012082091589,
             "rms": 0.03619603449617549,
@@ -1107,10 +1107,10 @@
             "length": 2048
         },
         {
-            "name": "C:\\Users\\Fabian\\Desktop\\test_hato\\99.wav",
+            "name": "C:\\Users\\Fabian\\Documents\\samples\\tmp\\lava_dientes\\99.wav",
             "pos": 0.0,
-            "tsne_x": 0.3950962722301483,
-            "tsne_y": 0.6674082279205322,
+            "tsne_x": 0.41824573278427124,
+            "tsne_y": 0.7182661294937134,
             "pca_x": 0.30095921541244425,
             "pca_y": 0.23207217528934626,
             "rms": 0.025600698589238524,
