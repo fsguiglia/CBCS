@@ -13,19 +13,24 @@ import json
 import time
 
 def main():
-	output_folder = os.path.dirname(sys.executable)
-	
-	args = {
-		"folder": output_folder,
-		"sample_rate": "22050",
-		"window_size": "2048",
-		"iterations": "1000",
-		"learning_rate": "200",
-		"perplexity": "30",
-		"hop_length": "512",
-		"cbcs_mode": "0",
-		"unit_length": "500"
-	}
+	if getattr(sys, 'frozen', False):
+		output_folder = os.path.dirname(sys.executable)
+	else:
+		output_folder = os.path.dirname(__file__)
+
+	with open(output_folder + '/config.ini') as f:
+		parameters = json.load(f)
+		args = {
+			"folder": output_folder,
+			"sample_rate": parameters['sample_rate'],
+			"window_size": parameters['window_size'],
+			"iterations": parameters['iterations'],
+			"learning_rate": parameters['learning_rate'],
+			"perplexity": parameters['perplexity'],
+			"hop_length": parameters['hop_length'],
+			"cbcs_mode": parameters['cbcs_mode'],
+			"unit_length": parameters['unit_length']
+		}
 	analyze(args)
 	
 def analyze(args):
@@ -41,7 +46,6 @@ def analyze(args):
 	
 	error = 'something went wrong, please check path and folder contents'
 	new_path = output_folder + '\\o.tmp'
-	print(new_path)
 	
 	try:
 		file_position = list()
