@@ -1,1 +1,0 @@
-start /d "C:/Users/Fabian/Documents/Ableton/User Library/Presets/Instruments/Max Instrument/hato" python analysis.py 
